@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "moment": "^2.25.1",
+    "moment": "^2.29.4",
     "moment-range": "^4.0.2",
     "react": "^16.8.6",
     "react-data-grid": "^6.1.0",
